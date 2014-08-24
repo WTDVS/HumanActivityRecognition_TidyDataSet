@@ -1,2 +1,0 @@
-HumanActivityRecognition_TidyDataSet
-====================================
